@@ -1,0 +1,9 @@
+C:\Users\ramon\Documents\Estructura de datos\Datos\Rutas2\Rutas2\obj\Debug\Rutas2.Form1.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\Rutas2\Rutas2\obj\Debug\Rutas2.Properties.Resources.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\Rutas2\Rutas2\obj\Debug\Rutas2.csproj.GenerateResource.Cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Rutas2\Rutas2\obj\Debug\Rutas2.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Rutas2\Rutas2\bin\Debug\Rutas2.exe.config
+C:\Users\ramon\Documents\Estructura de datos\Datos\Rutas2\Rutas2\bin\Debug\Rutas2.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\Rutas2\Rutas2\bin\Debug\Rutas2.pdb
+C:\Users\ramon\Documents\Estructura de datos\Datos\Rutas2\Rutas2\obj\Debug\Rutas2.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\Rutas2\Rutas2\obj\Debug\Rutas2.pdb
